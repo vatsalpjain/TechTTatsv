@@ -1,0 +1,25 @@
+# Core Data Science & Analysis
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Preprocessing
+scikit-learn
+statsmodels
+imbalanced-learn
+
+# Data Cleaning & Utilities
+openpyxl
+lxml
+requests
+beautifulsoup4
+
+# Development Tools
+jupyter
+notebook
+ipykernel
